@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4a4c7da-cac6-4b14-b016-14860184d3d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clasroomSix/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clasroomSix/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/clasroomSix/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/FirstSeleniumTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="f4a4c7da-cac6-4b14-b016-14860184d3d7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +40,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/livao/OneDrive/Dators/QA tester/LivaNazarenkoJAVA/src/main/java/homework/oop_homework&quot;
   }
 }</component>
@@ -59,14 +48,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\livao\OneDrive\Dators\QA tester\LivaNazarenkoTestAutomation" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.FirstSeleniumTest.checkPageTitle">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="clasroomSix.Example" />
+  <component name="RunManager" selected="TestNG.OpenWeb">
+    <configuration name="MavenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.MavenTest" />
       <module name="LivaNazarenkoTestAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clasroomSix.*" />
+          <option name="PATTERN" value="mavenTestNGHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,10 +66,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorTestHomework" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LivaNazarenkoTestAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mavenTestNGHomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mavenTestNGHomework" />
+      <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.CalculatorTestHomework" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -85,22 +83,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorTest.testMultiply" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CalculatorTestHomework.testSum" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LivaNazarenkoTestAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
-      <option name="METHOD_NAME" value="testMultiply" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest.testSum" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LivaNazarenkoTestAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mavenTestNGHomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mavenTestNGHomework" />
+      <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.CalculatorTestHomework" />
       <option name="METHOD_NAME" value="testSum" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -121,13 +113,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OpenWeb" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LivaNazarenkoTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mavenTestNGHomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mavenTestNGHomework" />
+      <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.OpenWeb" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.OpenWeb" />
+        <item itemvalue="Application.MavenTest" />
+        <item itemvalue="TestNG.CalculatorTestHomework" />
+        <item itemvalue="TestNG.CalculatorTestHomework.testSum" />
         <item itemvalue="TestNG.FirstSeleniumTest.checkPageTitle" />
-        <item itemvalue="TestNG.CalculatorTest.testSum" />
-        <item itemvalue="TestNG.CalculatorTest" />
-        <item itemvalue="TestNG.CalculatorTest.testMultiply" />
-        <item itemvalue="Application.Example" />
       </list>
     </recent_temporary>
   </component>
