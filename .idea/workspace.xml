@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="f4a4c7da-cac6-4b14-b016-14860184d3d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/inventoryPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+=======
     <list default="true" id="f4a4c7da-cac6-4b14-b016-14860184d3d7" name="Changes" comment="" />
+>>>>>>> f058fdcda177ada3329e1e92d37438679e9e08ea
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,18 +48,42 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+<<<<<<< HEAD
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/livao/OneDrive/Dators/QA tester/LivaNazarenkoTestAutomation/src/main/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+=======
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/livao/OneDrive/Dators/QA tester/LivaNazarenkoJAVA/src/main/java/homework/oop_homework&quot;
+>>>>>>> f058fdcda177ada3329e1e92d37438679e9e08ea
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\livao\OneDrive\Dators\QA tester\LivaNazarenkoTestAutomation\src\main\resources" />
       <recent name="C:\Users\livao\OneDrive\Dators\QA tester\LivaNazarenkoTestAutomation" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="TestNG.SeleniumTest.errorMessagePasswordEmptyPageObjectTest">
+    <configuration name="SeleniumTest.errorMessagePasswordEmptyPageObjectTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LivaNazarenkoTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classRoomSeven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classRoomSeven" />
+      <option name="MAIN_CLASS_NAME" value="classRoomSeven.SeleniumTest" />
+      <option name="METHOD_NAME" value="errorMessagePasswordEmptyPageObjectTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+=======
   <component name="RunManager" selected="TestNG.OpenWeb">
     <configuration name="MavenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.MavenTest" />
@@ -77,12 +109,26 @@
       <option name="PACKAGE_NAME" value="mavenTestNGHomework" />
       <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.CalculatorTestHomework" />
       <option name="TEST_OBJECT" value="CLASS" />
+>>>>>>> f058fdcda177ada3329e1e92d37438679e9e08ea
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="SeleniumTest.errorMessagePasswordEmptyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LivaNazarenkoTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classRoomSeven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classRoomSeven" />
+      <option name="MAIN_CLASS_NAME" value="classRoomSeven.SeleniumTest" />
+      <option name="METHOD_NAME" value="errorMessagePasswordEmptyTest" />
+=======
     <configuration name="CalculatorTestHomework.testSum" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LivaNazarenkoTestAutomation" />
       <extension name="coverage">
@@ -94,6 +140,7 @@
       <option name="PACKAGE_NAME" value="mavenTestNGHomework" />
       <option name="MAIN_CLASS_NAME" value="mavenTestNGHomework.CalculatorTestHomework" />
       <option name="METHOD_NAME" value="testSum" />
+>>>>>>> f058fdcda177ada3329e1e92d37438679e9e08ea
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -101,11 +148,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstSeleniumTest.checkPageTitle" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SeleniumTest.errorMessageUsernamePaswordEmptyTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LivaNazarenkoTestAutomation" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstSeleniumTest" />
-      <option name="METHOD_NAME" value="checkPageTitle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classRoomSeven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classRoomSeven" />
+      <option name="MAIN_CLASS_NAME" value="classRoomSeven.SeleniumTest" />
+      <option name="METHOD_NAME" value="errorMessageUsernamePaswordEmptyTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.localHTMLExerciseTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LivaNazarenkoTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classRoomSeven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classRoomSeven" />
+      <option name="MAIN_CLASS_NAME" value="classRoomSeven.SeleniumTest" />
+      <option name="METHOD_NAME" value="localHTMLExerciseTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SeleniumTest.successfullLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LivaNazarenkoTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="classRoomSeven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="classRoomSeven" />
+      <option name="MAIN_CLASS_NAME" value="classRoomSeven.SeleniumTest" />
+      <option name="METHOD_NAME" value="successfullLoginTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,11 +221,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+        <item itemvalue="TestNG.SeleniumTest.errorMessagePasswordEmptyPageObjectTest" />
+        <item itemvalue="TestNG.SeleniumTest.localHTMLExerciseTest" />
+        <item itemvalue="TestNG.SeleniumTest.successfullLoginTest" />
+        <item itemvalue="TestNG.SeleniumTest.errorMessagePasswordEmptyTest" />
+        <item itemvalue="TestNG.SeleniumTest.errorMessageUsernamePaswordEmptyTest" />
+=======
         <item itemvalue="TestNG.OpenWeb" />
         <item itemvalue="Application.MavenTest" />
         <item itemvalue="TestNG.CalculatorTestHomework" />
         <item itemvalue="TestNG.CalculatorTestHomework.testSum" />
         <item itemvalue="TestNG.FirstSeleniumTest.checkPageTitle" />
+>>>>>>> f058fdcda177ada3329e1e92d37438679e9e08ea
       </list>
     </recent_temporary>
   </component>
