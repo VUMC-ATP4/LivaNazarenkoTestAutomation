@@ -7,7 +7,6 @@ import org.testng.annotations.*;
 
 public class CalculatorTestHomework {
 
-    @BeforeMethod
     public void pirmsTesta(){
         System.out.println("Sākas tests!");
     }
