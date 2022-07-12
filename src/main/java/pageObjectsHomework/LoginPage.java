@@ -18,18 +18,22 @@ public class LoginPage{
 
 
     public WebElement getUsernameInputField(){
+
         return driver.findElement(usernameInputField);
     }
 
     public WebElement getPasswordInoutField(){
+
         return driver.findElement(passwordInputField);
     }
 
     public WebElement getLoginButton(){
+
         return driver.findElement(loginButton);
     }
 
     public WebElement getErrorText(){
+
         return driver.findElement(errorText);
     }
 }
