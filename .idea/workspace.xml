@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="382056de-5c4a-46c6-b1b3-142d64574ba7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/CartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/CheckoutOverviewPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/CheckoutSuccessPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/InventoryPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mavenTestNGHomework/OpenWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mavenTestNGHomework/OpenWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjectsHomework/LoginPage.java" afterDir="false" />
-    </list>
+    <list default="true" id="382056de-5c4a-46c6-b1b3-142d64574ba7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,35 +41,18 @@
       <recent name="mavenTestNGHomework" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.sauceDemoTests.secondScenario">
-    <configuration name="sauceDemoTests" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.AcodemyShopTest.seleniumDocTest">
+    <configuration name="AcodemyShopTest.hoverTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LivaNazarenkoTestAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seleniumHomework.*" />
+          <option name="PATTERN" value="clasroomEight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seleniumHomework" />
-      <option name="MAIN_CLASS_NAME" value="seleniumHomework.sauceDemoTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="sauceDemoTests.checkFirstName" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LivaNazarenkoTestAutomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumHomework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="seleniumHomework" />
-      <option name="MAIN_CLASS_NAME" value="seleniumHomework.sauceDemoTests" />
-      <option name="METHOD_NAME" value="checkFirstName" />
+      <option name="PACKAGE_NAME" value="clasroomEight" />
+      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
+      <option name="METHOD_NAME" value="hoverTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -86,17 +60,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sauceDemoTests.firstScenario" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AcodemyShopTest.javaScriptExecutorExampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LivaNazarenkoTestAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seleniumHomework.*" />
+          <option name="PATTERN" value="clasroomEight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seleniumHomework" />
-      <option name="MAIN_CLASS_NAME" value="seleniumHomework.sauceDemoTests" />
-      <option name="METHOD_NAME" value="firstScenario" />
+      <option name="PACKAGE_NAME" value="clasroomEight" />
+      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
+      <option name="METHOD_NAME" value="javaScriptExecutorExampleTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -104,17 +78,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sauceDemoTests.secondScenario" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="AcodemyShopTest.keyboardClickTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LivaNazarenkoTestAutomation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seleniumHomework.*" />
+          <option name="PATTERN" value="clasroomEight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="seleniumHomework" />
-      <option name="MAIN_CLASS_NAME" value="seleniumHomework.sauceDemoTests" />
-      <option name="METHOD_NAME" value="secondScenario" />
+      <option name="PACKAGE_NAME" value="clasroomEight" />
+      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
+      <option name="METHOD_NAME" value="keyboardClickTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcodemyShopTest.seleniumDocTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LivaNazarenkoTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clasroomEight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clasroomEight" />
+      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
+      <option name="METHOD_NAME" value="seleniumDocTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AcodemyShopTest.switchTabTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LivaNazarenkoTestAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="clasroomEight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="clasroomEight" />
+      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
+      <option name="METHOD_NAME" value="switchTabTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -124,10 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.sauceDemoTests.secondScenario" />
-        <item itemvalue="TestNG.sauceDemoTests.checkFirstName" />
-        <item itemvalue="TestNG.sauceDemoTests.firstScenario" />
-        <item itemvalue="TestNG.sauceDemoTests" />
+        <item itemvalue="TestNG.AcodemyShopTest.seleniumDocTest" />
+        <item itemvalue="TestNG.AcodemyShopTest.keyboardClickTest" />
+        <item itemvalue="TestNG.AcodemyShopTest.hoverTest" />
+        <item itemvalue="TestNG.AcodemyShopTest.javaScriptExecutorExampleTest" />
+        <item itemvalue="TestNG.AcodemyShopTest.switchTabTest" />
       </list>
     </recent_temporary>
   </component>
@@ -152,5 +163,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/clasroomEight/AcodemyShopTest.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/clasroomEight/AcodemyShopTest.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
