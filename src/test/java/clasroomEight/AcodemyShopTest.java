@@ -2,7 +2,11 @@ package clasroomEight;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.ie.InternetExplorerOptions;
 import org.openqa.selenium.interactions.Actions;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.safari.SafariOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
@@ -12,9 +16,13 @@ import org.testng.annotations.Test;
 import org.testng.reporters.jq.Main;
 import pageObjects.acodemyShop.MainPage;
 
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.time.Duration;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import static pageObjectsHomework.CartPage.driver;
 
@@ -25,12 +33,20 @@ public class AcodemyShopTest {
     public final String ACODEMY_SHOP_URL = "http://shop.acodemy.lv/";
 
     @BeforeMethod
-    public void setupBrowser() {
+    public void setupBrowser() throws MalformedURLException {
         System.out.println("Pirms testa");
-        driver = new ChromeDriver();
+//        ChromeOptions browserOptions = new ChromeOptions();
+//        browserOptions.setCapability("platformName", "Windows 10");
+//        browserOptions.setCapability("browserVersion", "latest");
+//        Map<String, Object> sauceOptions = new HashMap<>();
+//        sauceOptions.put("build", "<your build id>");
+//        sauceOptions.put("name", "<your test name>");
+//        browserOptions.setCapability("sauce:options", sauceOptions);
+
+        ChromeOptions chromeOptions = new ChromeOptions();
+        driver = new RemoteWebDriver(new URL("http://192.168.217.39:4444"), chromeOptions);
         driver.manage().window().maximize();
         wait = new WebDriverWait(driver, Duration.ofSeconds(10));
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
     }
 
     @Test
