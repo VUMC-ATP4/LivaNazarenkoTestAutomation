@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 public class LoginPage{
     public WebDriver driver;
 
-    public void LoginPage(WebDriver driver) {
+    public LoginPage(WebDriver driver) {
         this.driver = driver;
     }
 
@@ -15,6 +15,7 @@ public class LoginPage{
     private By passwordInputField = By.id("password");
     private By loginButton = By.id("login-button");
     private By errorText = By.cssSelector("h3[data-test='error']");
+
 
 
     public WebElement getUsernameInputField(){
@@ -36,4 +37,5 @@ public class LoginPage{
 
         return driver.findElement(errorText);
     }
+
 }
