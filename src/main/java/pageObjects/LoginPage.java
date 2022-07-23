@@ -14,6 +14,8 @@ public class LoginPage {
 
     private By errorText = By.cssSelector("h3[data-test='error']");
 
+    private By pageTitle = By.cssSelector("login_logo");
+
     public LoginPage(WebDriver driver) {
         this.driver = driver;
     }
@@ -39,5 +41,7 @@ public class LoginPage {
         getPasswordInputField().sendKeys(password);
         getLoginButton().click();
     }
-
+    public WebElement getPageTitle(){
+        return driver.findElement(pageTitle);
 }
+    }

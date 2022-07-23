@@ -33,112 +33,131 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="mavenTestNGHomework" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\livao\OneDrive\Dators\QA tester\LivaNazarenkoTestAutomation\src\test\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.AcodemyShopTest.seleniumDocTest">
-    <configuration name="AcodemyShopTest.hoverTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Feature: SouceLabs">
+    <configuration name="Feature: CucumberHomework" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/CucumberHomework.feature" />
+      <option name="GLUE" value="steps cucumberHomework" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="LivaNazarenkoTestAutomation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: CucumberHomework" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clasroomEight.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clasroomEight" />
-      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
-      <option name="METHOD_NAME" value="hoverTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AcodemyShopTest.javaScriptExecutorExampleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: SouceLabs" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/SouceLabs.feature" />
+      <option name="GLUE" value="steps cucumberHomework" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="LivaNazarenkoTestAutomation" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: SouceLabs" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clasroomEight.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clasroomEight" />
-      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
-      <option name="METHOD_NAME" value="javaScriptExecutorExampleTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AcodemyShopTest.keyboardClickTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Check if everything was ok and go back" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/CucumberHomework.feature" />
+      <option name="GLUE" value="steps cucumberHomework" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="LivaNazarenkoTestAutomation" />
+      <option name="NAME_FILTER" value="^Check if everything was ok and go back$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Check if everything was ok and go back$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Check if everything was ok and go back" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clasroomEight.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clasroomEight" />
-      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
-      <option name="METHOD_NAME" value="keyboardClickTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AcodemyShopTest.seleniumDocTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Complete the order" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/CucumberHomework.feature" />
+      <option name="GLUE" value="steps cucumberHomework" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="LivaNazarenkoTestAutomation" />
+      <option name="NAME_FILTER" value="^Complete the order$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Complete the order$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Complete the order" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clasroomEight.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clasroomEight" />
-      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
-      <option name="METHOD_NAME" value="seleniumDocTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AcodemyShopTest.switchTabTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Successfull login (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/CucumberHomework.feature" />
+      <option name="GLUE" value="steps cucumberHomework" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="LivaNazarenkoTestAutomation" />
+      <option name="NAME_FILTER" value="^Successfull login$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Successfull login$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Successfull login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="clasroomEight.*" />
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="clasroomEight" />
-      <option name="MAIN_CLASS_NAME" value="clasroomEight.AcodemyShopTest" />
-      <option name="METHOD_NAME" value="switchTabTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Feature: SouceLabs" />
+      <item itemvalue="Cucumber Java.Scenario: Check if everything was ok and go back" />
+      <item itemvalue="Cucumber Java.Scenario: Complete the order" />
+      <item itemvalue="Cucumber Java.Scenario: Successfull login (1)" />
+      <item itemvalue="Cucumber Java.Feature: CucumberHomework" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.AcodemyShopTest.seleniumDocTest" />
-        <item itemvalue="TestNG.AcodemyShopTest.keyboardClickTest" />
-        <item itemvalue="TestNG.AcodemyShopTest.hoverTest" />
-        <item itemvalue="TestNG.AcodemyShopTest.javaScriptExecutorExampleTest" />
-        <item itemvalue="TestNG.AcodemyShopTest.switchTabTest" />
+        <item itemvalue="Cucumber Java.Feature: SouceLabs" />
+        <item itemvalue="Cucumber Java.Scenario: Successfull login (1)" />
+        <item itemvalue="Cucumber Java.Feature: CucumberHomework" />
+        <item itemvalue="Cucumber Java.Scenario: Complete the order" />
+        <item itemvalue="Cucumber Java.Scenario: Check if everything was ok and go back" />
       </list>
     </recent_temporary>
   </component>
@@ -169,12 +188,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/clasroomEight/AcodemyShopTest.java</url>
-          <line>65</line>
+          <line>81</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/clasroomEight/AcodemyShopTest.java</url>
-          <line>78</line>
+          <line>94</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
